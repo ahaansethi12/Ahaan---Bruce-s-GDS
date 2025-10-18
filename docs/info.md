@@ -11,8 +11,6 @@ You can also include images in this folder and reference them in the markdown. E
 
 Flipping the switches turns the lights on the analog clock off or on
 ## How to test
-
-Explain how to use your project
-Flip switch to turn on lights
+Flip the switch to turn on the lights
 ## External hardware
 Dip-switch-8, seven-segment display, and NAND gate
