@@ -8,9 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Flipping the switches turns the lights on the analog clock off or on
+ 
+"Flipping the switches turns the lights on the analog clock off or on"
 ## How to test
-Flip the switch to turn on the lights
-## External hardware
-Dip-switch-8, seven-segment display, and NAND gate
+      
+"Flip the switch to turn on the lights."
+## External hardware            
+
+"Dip-switch-8, seven-segment display, and NAND gate"
